@@ -4,4 +4,5 @@ Modulos Formação Alura
 
 1) Hello World!
 2) Banco
-3) API
+3) Loja
+4) API REST
