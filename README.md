@@ -6,3 +6,4 @@ Modulos Formação Alura
 2) Banco
 3) Loja
 4) API REST
+5) GIN API REST
